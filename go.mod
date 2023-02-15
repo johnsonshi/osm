@@ -35,7 +35,7 @@ require (
 	github.com/onsi/gomega v1.13.0
 	github.com/pkg/browser v0.0.0-20180916011732-0a3d74bf9ce4
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/common v0.26.0
 	github.com/rs/zerolog v1.18.0
 	github.com/servicemeshinterface/smi-sdk-go v0.5.0
